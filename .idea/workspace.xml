@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="519a2df5-e787-40a2-9f5c-68c9c2c16c9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V6sdLA4ZeBsANiF0TP3iZTMTjY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="519a2df5-e787-40a2-9f5c-68c9c2c16c9a" name="Default Changelist" comment="" />
+      <created>1576584964563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576584964563</updated>
+      <workItem from="1576584965883" duration="6829000" />
+      <workItem from="1578293726779" duration="786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576585938624">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="427" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1576585938624" />
+    <state x="318" y="162" key="EditFileWatcherDialog" timestamp="1576585002566">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="318" y="162" key="EditFileWatcherDialog/0.0.1366.768@0.0.1366.768" timestamp="1576585002566" />
+    <state x="466" y="154" width="424" height="482" key="FileChooserDialogImpl" timestamp="1578294617968">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="466" y="154" width="424" height="482" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1578294617968" />
+    <state x="266" y="133" width="824" height="524" key="IDE.errors.dialog" timestamp="1578293747710">
+      <screen x="0" y="24" width="1366" height="744" />
+    </state>
+    <state x="266" y="133" width="824" height="524" key="IDE.errors.dialog/0.24.1366.744@0.24.1366.744" timestamp="1578293747710" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1576587092654">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1576587092654" />
+  </component>
+</project>
